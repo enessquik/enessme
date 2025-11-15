@@ -104,7 +104,7 @@ export default function Navbar() {
             transition={{ delay: 0.1, duration: 0.4 }}
             className={`text-2xl font-medium text-foreground ${leagueSpartan.className}`}
           >
-            mamii.
+            eness.
           </motion.span>
         </Link>
 
@@ -197,7 +197,7 @@ export default function Navbar() {
                       <span
                         className={`${leagueSpartan.className} text-2xl font-semibold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent`}
                       >
-                        mamii.
+                        eness.
                       </span>
                     </div>
                   </div>

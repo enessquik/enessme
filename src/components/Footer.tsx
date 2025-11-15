@@ -32,7 +32,7 @@ export default function Footer() {
               <div className="flex items-center gap-4">
                 <motion.a
                   whileHover={{ y: -3 }}
-                  href="https://github.com/mamiiblt"
+                  href="https://github.com/enessquik"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                   aria-label="GitHub"
                   target="_blank"
@@ -41,7 +41,7 @@ export default function Footer() {
                 </motion.a>
                 <motion.a
                   whileHover={{ y: -3 }}
-                  href="https://t.me/mamiiblt"
+                  href="https://t.me/enessquik"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                   aria-label="Telegram"
                   target="_blank"

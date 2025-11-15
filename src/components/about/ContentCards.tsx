@@ -90,7 +90,7 @@ export function AboutCard_ContGraph({classNameVal,t,
                             {t("stats.contgraph")}
                         </h4>
                     </div>
-                    <GithubCalendar username="mamiiblt"/>
+                    <GithubCalendar username="enessquik"/>
                 </CardContent>
             </Card>
         </motion.div>
