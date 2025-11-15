@@ -33,7 +33,7 @@ export default function ProjectsPage() {
     {
       id: "mindmirror",
       title: "MindMirror",
-      description: t("p_descriptions.instafel"),
+      description: t("p_descriptions.mindmirror"),
       image: "/pbanners/mindmirrorbanner.png",
       category: t("categories.android-app"),
       technologies: ["Java", "Html5", "React", "CSS"],
