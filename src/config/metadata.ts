@@ -10,16 +10,17 @@ if (!siteUrl) {
 export const defaultMetadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: `mamii.`,
+    default: `eness.`,
     template: `%s`,
   },
   description: SITE_CONFIG.description,
   keywords: [
-    "mamiiblt",
-    "Muhammed Ali BULUT",
-    "M. Ali BULUT",
-    "muhammed ali bulut",
-    "mamii",
+    "eness",
+    "enessquik",
+    "Enes Dinç",
+    "Enes",
+    "enes pinç",
+    "enes dinc",
   ],
   authors: [
     {

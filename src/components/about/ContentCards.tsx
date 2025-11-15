@@ -50,7 +50,7 @@ export function AboutCard_Contact({classNameVal, t, }: { classNameVal?: string; 
             <AnimatedContactButton href={"/articles"} icon={LinkSquareIcon} label={t("nav.articles")}/>
             <AnimatedContactButton href={"https://github.com/sponsors/mamiiblt"} icon={HeartCheckIcon}
                                    label={t("nav.support")}/>
-            <AnimatedContactButton href={"mailto:mami@mamii.me"} icon={Mail02Icon} label={t("nav.mail")}/>
+            <AnimatedContactButton href={"mailto:enesspecter@icloud.com"} icon={Mail02Icon} label={t("nav.mail")}/>
 
             <motion.div variants={itemVariants} className="md:col-span-2">
                 <MotionButton
@@ -63,7 +63,7 @@ export function AboutCard_Contact({classNameVal, t, }: { classNameVal?: string; 
                     variants={buttonVariants}
                 >
                     <Link
-                        href="https://t.me/mamiiblt"
+                        href="https://t.me/enessquik"
                         className="flex items-center justify-center gap-2"
                     >
                         <HugeiconsIcon icon={TelegramIcon} className="h-4 w-4"/>

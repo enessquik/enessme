@@ -121,7 +121,7 @@ export function ProfileCard({socialLinks, t}: { socialLinks: any; t: TFunction; 
                     }`}
                 >
                     <Image
-                        src="/mamiiblt.png"
+                        src="/enes.png"
                         alt={t("profile.photo")}
                         width={180}
                         height={180}

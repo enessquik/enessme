@@ -169,7 +169,7 @@ export default function Navbar() {
               className="transition-transform hover:scale-105"
             >
               <a
-                href="https://github.com/mamiiblt"
+                href="https://github.com/enessquik"
                 target="_blank"
                 rel="noopener noreferrer"
               >

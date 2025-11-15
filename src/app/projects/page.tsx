@@ -31,27 +31,15 @@ export default function ProjectsPage() {
 
   const projects: Project[] = [
     {
-      id: "instafel",
-      title: "Instafel",
+      id: "mindmirror",
+      title: "MindMirror",
       description: t("p_descriptions.instafel"),
       image: "/pbanners/instafel.png",
       category: t("categories.android-app"),
-      technologies: ["Java", "Smali", "React"],
-      github: "https://github.com/mamiiblt/instafel",
-      website: "https://instafel.app",
-      telegram: "https://t.me/instafel",
+      technologies: ["Java", "Html5", "React", "CSS"],
+      github: "https://github.com/enessquik/wpvdbot",
+      website: "https://mindmirror.dev",
       featured: true,
-    },
-    {
-      id: "instafel-updater",
-      title: "Instafel Updater",
-      description: t("p_descriptions.instafel-updater"),
-      image: "/pbanners/instafel-updater.png",
-      category: t("categories.android-app"),
-      technologies: ["Java"],
-      github: "https://github.com/mamiiblt/instafel-updater",
-      website: "https://instafel.app/about_updater",
-      featured: false,
     },
   ];
 

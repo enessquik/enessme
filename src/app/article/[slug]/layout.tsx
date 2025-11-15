@@ -5,7 +5,7 @@ import { defaultMetadata } from "@/config/metadata";
 export const metadata: Metadata = {
   ...defaultMetadata,
   title: `Article`,
-  description: "A article from mamiiblt",
+  description: "A article from eness",
 };
 
 export default function BlogPostLayout({

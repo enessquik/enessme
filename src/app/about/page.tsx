@@ -49,31 +49,15 @@ export default function HomePage() {
             <ProfileCard t={t} socialLinks={[
               {
                 icon: <HugeiconsIcon icon={GithubIcon} className="h-4 w-4" />,
-                url: "https://github.com/mamiiblt",
+                url: "https://github.com/enessquik",
               },
               {
                 icon: <HugeiconsIcon icon={TelegramIcon} className="h-4 w-4" />,
-                url: "https://t.me/mamiiblt",
-              },
-              {
-                icon: <HugeiconsIcon icon={Linkedin02Icon} className="h-4 w-4" />,
-                url: "https://www.linkedin.com/in/muhammed-ali-bulut-1a7b00364",
+                url: "https://t.me/enessquik",
               },
               {
                 icon: <HugeiconsIcon icon={InstagramIcon} className="h-4 w-4" />,
-                url: "https://instagram.com/mamiiblt",
-              },
-              {
-                icon: <HugeiconsIcon icon={SpotifyIcon} className="h-4 w-4" />,
-                url: "https://open.spotify.com/user/qpg4rzp2n15covoviu0tkyj69?si=AkiQulRPRdO6ENBCAT7SHw",
-              },
-              {
-                icon: <HugeiconsIcon icon={NewTwitterIcon} className="h-4 w-4" />,
-                url: "https://x.com/mamiiblt",
-              },
-              {
-                icon: <HugeiconsIcon icon={Coffee01Icon} className="h-4 w-4" />,
-                url: "https://buymeacoffee.com/mamiiblt",
+                url: "https://instagram.com/enesspecter",
               },
             ]} />
 
