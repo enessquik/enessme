@@ -48,16 +48,7 @@ export default function Footer() {
                 >
                   <HugeiconsIcon icon={TelegramIcon} className="h-5 w-5" />
                 </motion.a>
-
-                <motion.a
-                  whileHover={{ y: -3 }}
-                  href="https://www.linkedin.com/in/muhammed-ali-bulut-1a7b00364"
-                  className="text-muted-foreground hover:text-foreground transition-colors"
-                  aria-label="LinkedIn"
-                  target="_blank"
-                >
-                  <HugeiconsIcon icon={Linkedin02Icon} className="h-5 w-5" />
-                </motion.a>
+              
               </div>
             </div>
           </div>
