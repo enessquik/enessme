@@ -48,7 +48,7 @@ export function AboutCard_Contact({classNameVal, t, }: { classNameVal?: string; 
         >
             <AnimatedContactButton href={"/projects"} icon={SourceCodeIcon} label={t("nav.projects")}/>
             <AnimatedContactButton href={"/articles"} icon={LinkSquareIcon} label={t("nav.articles")}/>
-            <AnimatedContactButton href={"https://github.com/sponsors/mamiiblt"} icon={HeartCheckIcon}
+            <AnimatedContactButton href={"https://github.com/sponsors/enessquik"} icon={HeartCheckIcon}
                                    label={t("nav.support")}/>
             <AnimatedContactButton href={"mailto:enesspecter@icloud.com"} icon={Mail02Icon} label={t("nav.mail")}/>
 
