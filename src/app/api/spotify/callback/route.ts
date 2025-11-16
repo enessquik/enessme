@@ -4,7 +4,7 @@ const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const SPOTIFY_REDIRECT_URI =
   process.env.SPOTIFY_REDIRECT_URI ||
-  "http://localhost:3000/api/spotify/callback";
+  "https://localhost:3000/api/spotify/callback";
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
