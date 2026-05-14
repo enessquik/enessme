@@ -1,4 +1,3 @@
-// veya 
 import biyolojiKaynakca from '@/data/biyokaynakca';
 
 export default function BiyolojiKaynakca() {
@@ -11,7 +10,6 @@ export default function BiyolojiKaynakca() {
             <a href={kaynak.url} target="_blank" rel="noopener noreferrer">
               {kaynak.title}
             </a>
-            {kaynak.description && <span> – {kaynak.description}</span>}
           </li>
         ))}
       </ul>
