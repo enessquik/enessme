@@ -9,7 +9,7 @@ import {
   StarIcon,
   FireIcon,
   UserGroupIcon,
-  CodeFolderIcon, GithubIcon, TelegramIcon, Linkedin02Icon, SpotifyIcon, NewTwitterIcon, InstagramIcon, Coffee01Icon,
+  CodeFolderIcon, GithubIcon, TelegramIcon, Linkedin02Icon, SpotifyIcon, NewTwitterIcon, InstagramIcon, Coffee01Icon, WebflowRectangleIcon,
 } from "@hugeicons/core-free-icons";
 import { motion } from "framer-motion";
 import {
