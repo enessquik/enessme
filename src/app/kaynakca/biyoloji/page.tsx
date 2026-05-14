@@ -1,4 +1,4 @@
-import biyolojiKaynakca from 'src/data/biyokaynakca';
+import biyolojiKaynakca from 'src/data/biyokaynakca.ts';
 
 export default function BiyolojiKaynakca() {
   return (
