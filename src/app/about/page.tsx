@@ -56,10 +56,11 @@ export default function HomePage() {
                 url: "https://t.me/enessquik",
               },
             {
-              icon: <HugeiconsIcon icon={WebflowRectangleIcon} className="h-4 w-4" />
+              icon: <HugeiconsIcon icon={WebflowRectangleIcon} className="h-4 w-4" />,
               url: "https://eness.me/kaynakca/biyoloji"
               },
-            ]} />
+            ]} 
+          />
 
             <AboutCard_AboutMe t={t} classNameVal="mb-4 w-full max-w-2xl"/>
             <AboutCard_Statistics t={t} classNameVal="mb-4 w-full max-w-2xl" stats={[
