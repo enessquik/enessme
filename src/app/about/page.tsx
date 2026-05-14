@@ -55,9 +55,9 @@ export default function HomePage() {
                 icon: <HugeiconsIcon icon={TelegramIcon} className="h-4 w-4" />,
                 url: "https://t.me/enessquik",
               },
-              {
-                icon: <HugeiconsIcon icon={InstagramIcon} className="h-4 w-4" />,
-                url: "https://instagram.com/enesspecter",
+            {
+              icon: <HugeiconsIcon icon={WebflowRectangleIcon} className="h-4 w-4" />
+              url: "https://eness.me/kaynakca/biyoloji"
               },
             ]} />
 
